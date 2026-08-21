@@ -37,7 +37,8 @@
       </td>
       <td style="padding: 10px 15px; border: 1px solid #333333;">
         • nodemon<br>
-        • swagger (swagger-ui-express)
+        • swagger-ui-express<br>
+        • swagger-jsdoc<br>
       </td>
     </tr>
   </tbody>
