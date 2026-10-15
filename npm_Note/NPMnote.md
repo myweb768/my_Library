@@ -17,8 +17,10 @@
   <tbody>
     <tr>
       <td style="padding: 10px 15px; border: 1px solid #333333;">
+        • React<br>
         • axios<br>
-        • react-router-dom<br>
+        • react-hook-form<br>
+        • react-router<br>
         • tanstack/react-query
       </td>
       <td style="padding: 10px 15px; border: 1px solid #333333;">
