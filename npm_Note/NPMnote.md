@@ -29,9 +29,14 @@
         • cookie-parser<br>
         • dotenv<br>
         • redis<br>
-        • express-rate-limit<br>
+        • express-rate-limit (🛡️)<br> 
+        • helmet (🛡️)<br>         
+        • cors (🛡️)<br> 
+        • bcryptjs (🛡️)<br> 
+        • express-mongo-sanitize (🛡️)<br> 
         • multer<br>
-        • @ai-sdk/google<br>        
+        • @ai-sdk/google<br>
+        • Nodemailer
       </td>   
       <td>
         • ai<br>
